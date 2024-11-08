@@ -8,7 +8,7 @@ james@gmail.com
 
 # Email Breach Checker 🔒
 
-A simple web tool that helps you check if your email has been part of any data breaches! Built during [Hackathon Name] 2024.
+A simple web tool that helps you check if your email has been part of any data breaches! Built during nov 2024.
 
 
 
