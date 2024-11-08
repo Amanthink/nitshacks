@@ -1,4 +1,9 @@
 http://data-security-19d.pages.dev/http://data-security-19d.pages.dev/
+for leaked email you can put - 
+gmail@gmail.com
+mkhl@gmail.com
+james@gmail.com
+
 
 
 # Email Breach Checker 🔒
